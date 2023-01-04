@@ -18,10 +18,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-(https://codepen.io/https://www.linkedin.com/in/rishav-kumar-1a9239237/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rishavkumar108.github.io/)  
-<a href="https://www.hackerrank.com/rishavkumar12101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rishavkumar12101" height="30" width="40" /></a>
+## Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishav-kumar-1a9239237/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+
 </p>
 
 
