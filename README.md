@@ -8,12 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavkumar108" alt="rishavkumar108" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend Developer**
-
-- 👨‍💻 All of my projects are available at [https://rishavkumar108.github.io/](https://rishavkumar108.github.io/)
-
+- 🔭 I’m currently working on   Backend and Frontend Technologies 😅
+- 🌱 I’m currently learning     **SQL, JDBC, LLD, AWS** at Masai School.
 - 💬 Ask me about **HTML,CSS, JavaScript,Java,SQL,Spring Boot,Hibernate**
-
+- 👨‍💻 This is [My Portfolio](https://rishavkumar108.github.io/)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1IM0EGep76hyjC-Sw-BNywfH_UZ6D98gc/view?usp=sharing)
 - 📫 How to reach me **rishavkumar121099@gmail.com**
 
 
