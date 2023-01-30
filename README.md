@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Rishav+Kumar!;Java+Back-end+Developer...;" style="width: 100%;">
-<img height=400px width =1000px src="https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966"/>
+<img height=300px width =1000px src="https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966"/>
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 
 <h3 align="center">A passionate Backend developer from India</h3>
@@ -21,9 +21,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishav-kumar-1a9239237/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RishavKumar108&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RishavKumar108&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RishavKumar108&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RishavKumar108&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RishavKumar108&theme=solarized_dark&utcOffset=8">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
