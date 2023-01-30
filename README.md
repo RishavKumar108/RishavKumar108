@@ -126,10 +126,10 @@
 
 <p align="left" style="margin-right:0px;padding-right:0px">
 <img src="https://github-readme-stats.vercel.app/api?username=RishavKumar108&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushfromit&theme=algolia" />
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RishavKumar108&theme=algolia" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavkumar108&show_icons=true&locale=en&layout=compact" alt="rishavkumar108" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavkumar108&show_icons=true&locale=en&layout=compact"&theme=algolia alt="rishavkumar108" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavkumar108&show_icons=true&locale=en" alt="rishavkumar108" /></p>
 
