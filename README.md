@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavkumar108&label=Profile%20views&color=0e75b6&style=flat" alt="rishavkumar108" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavkumar108" alt="rishavkumar108" /></a> </p>
-
 - 🔭 I’m currently working on  Java Backend and Frontend Technologies 😅
 - 🌱 I’m currently learning     **Java Backend Developement** at Masai School.
 - 💬 Ask me about **HTML,CSS, JavaScript,Java,SQL,Spring Boot,Hibernate**
@@ -24,6 +22,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavkumar108" alt="rishavkumar108" /></a> </p>
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
