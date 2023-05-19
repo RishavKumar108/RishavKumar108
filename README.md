@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Rishav+Kumar!;Java+Back-end+Developer...;" style="width: 100%;">
-<img height=300px width =1000px src="https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966"/>
+<img height=400px width =800px src="https://camo.githubusercontent.com/b8ed988b174382f939c0194cd8981191c0d18f509512492fedd5158ad7c842e0/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f63646e2d75706c6f6164732f32303232303930373137343435372f436c6f75642d436f6d707574696e672d76732d5765622d446576656c6f706d656e742e676966"/>
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 
 <h3 align="center">A passionate Backend developer from India</h3>
